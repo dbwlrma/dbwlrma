@@ -9,7 +9,7 @@
 <br />
   iOS Developer focused on building stable and reliable apps.<br>
   Graduated in Automotive Engineering, growing as an iOS Developer.<br>
-🌱 Currently studying iOS frameworks and maintaining my own apps <a href="https://apps.apple.com/kr/app/킥오프-축구-경기-일정/id6756507148">AppStore</a>
+🌱 Currently studying iOS frameworks and maintaining my own apps <a href="https://apps.apple.com/kr/app/킥오프-축구-경기-일정/id6756507148">AppStore</a>.
 
 
 
